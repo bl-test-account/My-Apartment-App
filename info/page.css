@@ -1,0 +1,17 @@
+  html {
+    background-color: #f2f2f2;
+  }
+
+  .default-app {
+    background-color: #f2f2f2;
+    padding:10px 20px;
+  }
+
+  p {
+    color: #313131;
+  }
+
+  .container {
+    width: 90%;
+    margin: auto;
+  }
